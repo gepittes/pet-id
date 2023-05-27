@@ -7,7 +7,7 @@
 3. Baixe e instale o repositorio baixado
 
 ```bash
-  git clone https://github.com/gepittes/pet-id-backend.git
+  git clone https://github.com/<seu-usuario>/pet-id-backend.git
 ```
 
 ### Instalação da aplicação
